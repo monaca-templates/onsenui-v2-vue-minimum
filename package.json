@@ -4,7 +4,7 @@
   "description": "",
   "dependencies": {
     "onsenui": "2.4.x",
-    "vue": "2.3.0",
+    "vue": "2.3.x",
     "vue-onsenui": "2.0.0",
     "vue-template-compiler": "2.3.x",
     "vue-loader": "11.0.0"
